@@ -24,14 +24,14 @@ If you need more information about forking a repository, follow this [guide](htt
 ## Danh sách các ví dụ
 Navigate into the example folders to find out the different webpack configuration examples to help you get started with this module bundler. You will learn about the different configuration possibilities, from the simplest one to the most advanced configuration for deploying into production your bundles.
 
-* [Example 1: Hello world! with Webpack](https://github.com/ngminhtrung/learn-webpack/tree/master/examples/01-hello-webpack)
-* [Example 2: Multiple entries](https://github.com/ngminhtrung/learn-webpack/tree/master/examples/02-multiple-entries)
-* [Example 3: Loaders](https://github.com/ngminhtrung/learn-webpack/tree/master/examples/03-loaders)
-* [Example 4: Styles](https://github.com/ngminhtrung/learn-webpack/tree/master/examples/04-styles)
-* [Example 5: Chunks](https://github.com/ngminhtrung/learn-webpack/tree/master/examples/05-chunks)
-* [Example 6: Vendors](https://github.com/ngminhtrung/learn-webpack/tree/master/examples/06-vendors)
-* [Example 7: Development environment setup](https://github.com/ngminhtrung/learn-webpack/tree/master/examples/07-development-environment-setup)
-* [Example 8: Optimizations for production](https://github.com/ngminhtrung/learn-webpack/tree/master/examples/08-optimizations-for-production)
+* [Example 1: Hello world! with Webpack](https://github.com/ngminhtrung/learn-webpack-vi/tree/master/examples/01-hello-webpack)
+* [Example 2: Multiple entries](https://github.com/ngminhtrung/learn-webpack-vi/tree/master/examples/02-multiple-entries)
+* [Example 3: Loaders](https://github.com/ngminhtrung/learn-webpack-vi/tree/master/examples/03-loaders)
+* [Example 4: Styles](https://github.com/ngminhtrung/learn-webpack-vi/tree/master/examples/04-styles)
+* [Example 5: Chunks](https://github.com/ngminhtrung/learn-webpack-vi/tree/master/examples/05-chunks)
+* [Example 6: Vendors](https://github.com/ngminhtrung/learn-webpack-vi/tree/master/examples/06-vendors)
+* [Example 7: Development environment setup](https://github.com/ngminhtrung/learn-webpack-vi/tree/master/examples/07-development-environment-setup)
+* [Example 8: Optimizations for production](https://github.com/ngminhtrung/learn-webpack-vi/tree/master/examples/08-optimizations-for-production)
 
 ## How to collaborate
 Please feel free to propose new examples or ask for help with any configuration you are trying to learn.
